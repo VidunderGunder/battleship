@@ -1,6 +1,6 @@
 # React Battleship
 
-Portfolio project
+Portfolio project/interview task (unfinished - I took another job 😇)
 
 Task in hand:
 
